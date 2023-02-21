@@ -3,6 +3,8 @@ name: Archive
 description: |
   Where all of the lost and forgotten challenges go.
 
+type: topic
+
 modules:
 
 - id: memory-errors
