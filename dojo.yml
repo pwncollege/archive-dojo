@@ -102,7 +102,7 @@ modules:
   - id: level-13-1
     name: level13.1
     description: ""
-    lectures:
+    resources:
     - name: "Advanced Exploitation: Introduction"
       type: lecture
       video: s7DCT9qccYc
