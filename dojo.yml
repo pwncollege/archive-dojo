@@ -11,11 +11,11 @@ modules:
     Archived memory errors challenges.
     Archived: Fall 2022
   challenges:
-  - id: level-2-0-old
-    name: level2.0-old
+  - id: level-2-0-f2022
+    name: level2.0-f2022
     description: Overflow a buffer on the heap to obtain the flag!
-  - id: level-2-1-old
-    name: level2.1-old
+  - id: level-2-1-f2022
+    name: level2.1-f2022
     description: Overflow a buffer on the heap to obtain the flag!
 
 - id: advanced-exploitation
