@@ -23,7 +23,7 @@ modules:
 - id: advanced-exploitation
   name: Advanced Exploitation
   description: |
-    Archived advanced exploitation challenges.
+    Archived advanced exploitation module.
     Archived: Fall 2022
   challenges:
   - id: level-1-0
