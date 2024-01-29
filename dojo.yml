@@ -4,6 +4,8 @@ description: |
   Where all of the lost and forgotten challenges go.
 
 type: archive
+award:
+  emoji: 📘
 
 modules:
 
