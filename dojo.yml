@@ -14,7 +14,7 @@ modules:
   description: |
     Archived web security pwning challenge from when web came after memory errors.
   challenges:
-    id: level-15
+  - id: level-15
 - id: memory-errors
   name: Memory Errors
   description: |
