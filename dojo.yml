@@ -9,6 +9,14 @@ award:
 
 modules:
 
+- id: web-security
+  name: Web Security
+  description: |
+    Archived web security pwning challenge from when web came after memory errors.
+  challenges:
+    id: level-15
+    name: level15-s2024
+
 - id: memory-errors
   name: Memory Errors
   description: |
