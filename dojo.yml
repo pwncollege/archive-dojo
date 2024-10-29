@@ -2,6 +2,7 @@ id: archive
 name: pwn.college Archives
 description: |
   Where all of the lost and forgotten challenges go.
+image: pwncollege/challenge-legacy:latest
 
 type: public
 award:
