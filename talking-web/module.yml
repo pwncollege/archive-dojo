@@ -6,98 +6,33 @@ description: |
 challenges:
   - id: http-curl
     name: "HTTP (curl)"
-    transfer:
-      dojo: fundamentals
-      module: talking-web
-      challenge: http-curl
   - id: http-python
     name: "HTTP (python)"
-    transfer:
-      dojo: fundamentals
-      module: talking-web
-      challenge: http-python
   - id: url-encoding-curl
     name: "URL Encoding (curl)"
-    transfer:
-      dojo: fundamentals
-      module: talking-web
-      challenge: url-encoding-curl
   - id: url-encoding-python
     name: "URL Encoding (python)"
-    transfer:
-      dojo: fundamentals
-      module: talking-web
-      challenge: url-encoding-python
   - id: http-get-arguments-nc
     name: "HTTP GET Parameters (netcat)"
-    transfer:
-      dojo: fundamentals
-      module: talking-web
-      challenge: http-get-arguments-nc
   - id: http-get-arguments-python
     name: "HTTP GET Parameters (python)"
-    transfer:
-      dojo: fundamentals
-      module: talking-web
-      challenge: http-get-arguments-python
   - id: http-get-multiarg-python
     name: "Multiple HTTP Parameters (python)"
-    transfer:
-      dojo: fundamentals
-      module: talking-web
-      challenge: http-get-multiarg-python
   - id: http-form-multi-python
     name: "Multiple Form Fields (python)"
-    transfer:
-      dojo: fundamentals
-      module: talking-web
-      challenge: http-form-multi-python
   - id: http-json-curl
     name: "HTTP JSON (curl)"
-    transfer:
-      dojo: fundamentals
-      module: talking-web
-      challenge: http-json-curl
   - id: http-json-nc
     name: "HTTP JSON (netcat)"
-    transfer:
-      dojo: fundamentals
-      module: talking-web
-      challenge: http-json-nc
   - id: http-json-python
     name: "HTTP JSON (python)"
-    transfer:
-      dojo: fundamentals
-      module: talking-web
-      challenge: http-json-python
   - id: http-json-complex-curl
     name: "Complex HTTP JSON (curl)"
-    transfer:
-      dojo: fundamentals
-      module: talking-web
-      challenge: http-json-complex-curl
   - id: http-json-complex-nc
     name: "Complex HTTP JSON (netcat)"
-    transfer:
-      dojo: fundamentals
-      module: talking-web
-      challenge: http-json-complex-nc
   - id: http-json-complex-python
     name: "Complex HTTP JSON (python)"
-    transfer:
-      dojo: fundamentals
-      module: talking-web
-      challenge: http-json-complex-python
   - id: http-multi-request-curl
     name: "Server State (curl)"
-    transfer:
-      dojo: fundamentals
-      module: talking-web
-      challenge: http-multi-request-curl
   - id: http-multi-request-nc
     name: "Server State (netcat)"
-    transfer:
-      dojo: fundamentals
-      module: talking-web
-      challenge: http-multi-request-nc
-
