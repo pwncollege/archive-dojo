@@ -10,12 +10,16 @@ award:
 
 modules:
 
+- id: talking-web
+
 - id: web-security
   name: Web Security
   description: |
     Archived web security pwning challenge from when web came after memory errors.
+    Archived: Fall 2024
   challenges:
   - id: level-15
+
 - id: memory-errors
   name: Memory Errors
   description: |
