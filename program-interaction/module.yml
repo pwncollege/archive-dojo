@@ -1,4 +1,5 @@
 name: Program Interaction
+image: pwncollege/challenge-legacy:latest
 challenges:
 - id: level-1
   transfer:
