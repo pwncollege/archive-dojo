@@ -1,0 +1,42 @@
+name: Program Security Challenges
+description: |
+  Archived Shellcode and Memory Corruption challenges
+  Archived: Fall 2025
+
+challenges:
+- id: silenced-shellcode
+  name: Silenced Shellcode
+  description: Write and execute shellcode to read the flag, but all file descriptors (including stdin, stderr and stdout!)
+    are closed.
+  transfer:
+    dojo: program-security
+    module: shellcode-injection
+    challenge: level-7
+- id: shellcode-shuffle
+  name: Shellcode Shuffle
+  description: Write and execute shellcode to read the flag, but your input is sorted before being executed!
+  transfer:
+    dojo: program-security
+    module: shellcode-injection
+    challenge: level-10
+- id: shellcode-shuffle-2
+  name: Shellcode Shuffle II
+  description: Write and execute shellcode to read the flag, but your input is sorted before being executed and stdin is closed.
+  transfer:
+    dojo: program-security
+    module: shellcode-injection
+    challenge: level-11
+- id: mmap-mirage-easy
+  name: Mmap Mirage (Easy)
+  description: Overflow a buffer and leak the flag. Be warned, this requires careful and clever payload construction!
+  transfer:
+    dojo: program-security
+    module: memory-errors
+    challenge: level-11-0
+- id: mmap-mirage-hard
+  name: Mmap Mirage (Hard)
+  description: Overflow a buffer and leak the flag. Be warned, this requires careful and clever payload construction!
+  transfer:
+    dojo: program-security
+    module: memory-errors
+    challenge: level-11-1
