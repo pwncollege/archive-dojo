@@ -3,7 +3,7 @@ description: |
   Archived Shellcode and Memory Corruption challenges
   Archived: Fall 2025
 
-resoucrces:
+resources:
   - id: silenced-shellcode
     name: Silenced Shellcode
     type: challenge
