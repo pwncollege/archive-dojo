@@ -12,7 +12,7 @@ modules:
 - id: program-interaction
 
 - id: talking-web
-- id: program-exploitation
+- id: program-security
 
 - id: web-security
   name: Web Security
