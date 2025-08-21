@@ -9,10 +9,10 @@ award:
   emoji: 📘
 
 modules:
-
 - id: program-interaction
 
 - id: talking-web
+- id: program-security
 
 - id: web-security
   name: Web Security
