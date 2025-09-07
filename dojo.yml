@@ -10,9 +10,9 @@ award:
 
 modules:
 - id: program-interaction
-
 - id: talking-web
 - id: program-security
+- id: reverse-engineering
 
 - id: web-security
   name: Web Security

@@ -1,0 +1,129 @@
+name: Reverse Engineering Challenges
+description: |
+  Archived Reverse Engineering Challenges from Program Security Dojo
+  Archived: Fall 2025
+
+resources:
+  - id: twisted-text-easy
+    name: Twisted Text (Easy)
+    type: challenge
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow before being compared to the correct key.
+    transfer:
+      dojo: program-security
+      module: reverse-engineering
+      challenge: level-3-0
+  - id: twisted-text-hard
+    name: Twisted Text (Hard)
+    type: challenge
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow before being compared to the correct key.
+    transfer:
+      dojo: program-security
+      module: reverse-engineering
+      challenge: level-3-1
+
+  - id: tidy-task-easy
+    name: Tidy Task (Easy)
+    type: challenge
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow before being compared to the correct key.
+    transfer:
+      dojo: program-security
+      module: reverse-engineering
+      challenge: level-4-0
+  - id: tidy-task-hard
+    name: Tidy Task (Hard)
+    type: challenge
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow before being compared to the correct key.
+    transfer:
+      dojo: program-security
+      module: reverse-engineering
+      challenge: level-4-1
+
+  - id: logical-license-easy
+    name: Logical License (Easy)
+    type: challenge
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow before being compared to the correct key.
+    transfer:
+      dojo: program-security
+      module: reverse-engineering
+      challenge: level-5-0
+  - id: logical-license-hard
+    name: Logical License (Hard)
+    type: challenge
+    type: challenge
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow before being compared to the correct key.
+    transfer:
+      dojo: program-security
+      module: reverse-engineering
+      challenge: level-5-1
+
+  - id: modest-mangler-easy
+    name: Modest Mangler (Easy)
+    type: challenge
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow before being compared to the correct key.
+    transfer:
+      dojo: program-security
+      module: reverse-engineering
+      challenge: level-7-0
+  - id: modest-mangler-hard
+    name: Modest Mangler (Hard)
+    type: challenge
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow before being compared to the correct key.
+    transfer:
+      dojo: program-security
+      module: reverse-engineering
+      challenge: level-7-1
+
+  - id: this-is-yancode-easy
+    name: This is Yancode (Easy)
+    type: challenge
+    description: |-
+      We're about to dive into reverse engineering obfuscated code! To better prepare you for the journey ahead, this challenge is a very straightforward crackme, but using slightly different code, memory layout, and input format. We will progressively obfuscate this in future levels, but this level should be a freebie!
+    transfer:
+      dojo: program-security
+      module: reverse-engineering
+      challenge: level-12-0
+  - id: this-is-yancode-hard
+    name: This is Yancode (Hard)
+    type: challenge
+    description: |-
+      We're about to dive into reverse engineering obfuscated code! To better prepare you for the journey ahead, this challenge is a very straightforward crackme, but using slightly different code, memory layout, and input format. We will progressively obfuscate this in future levels, but this level should be a freebie!
+    transfer:
+      dojo: program-security
+      module: reverse-engineering
+      challenge: level-12-1
+  - id: powered-by-yancode-easy
+    name: Powered by Yancode (Easy)
+    type: challenge
+    description: |-
+      Let's dive into reverse engineering obfuscated code! This challenge is using VM-based obfuscation: reverse engineer the custom emulator and architecture to understand how to get the flag! If you are clever, you won't need to reverse _too_ much VM code.
+    transfer:
+      dojo: program-security
+      module: reverse-engineering
+      challenge: level-13-0
+  - id: powered-by-yancode-hard
+    name: Powered by Yancode (Hard)
+    type: challenge
+    description: |-
+      Let's dive into reverse engineering obfuscated code! This challenge is using VM-based obfuscation: reverse engineer the custom emulator and architecture to understand how to get the flag! If you are clever, you won't need to reverse _too_ much VM code.
+    transfer:
+      dojo: program-security
+      module: reverse-engineering
+      challenge: level-13-1
+  - id: yancode-inside-easy
+    name: Yancode Inside (Easy)
+    type: challenge
+    description: |-
+      Let's dive into reverse engineering obfuscated code! This challenge is using VM-based obfuscation: reverse engineer the custom emulator and architecture to understand how to get the flag! If you are clever, you won't need to reverse _too_ much VM code.
+    transfer:
+      dojo: program-security
+      module: reverse-engineering
+      challenge: level-14-0
+  - id: yancode-inside-hard
+    name: Yancode Inside (Hard)
+    type: challenge
+    description: |-
+      Let's dive into reverse engineering obfuscated code! This challenge is using VM-based obfuscation: reverse engineer the custom emulator and architecture to understand how to get the flag! If you are clever, you won't need to reverse _too_ much VM code.
+    transfer:
+      dojo: program-security
+      module: reverse-engineering
+      challenge: level-14-1
