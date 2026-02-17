@@ -13,6 +13,7 @@ modules:
 - id: talking-web
 - id: program-security
 - id: reverse-engineering
+- id: computing-101
 
 - id: web-security
   name: Web Security

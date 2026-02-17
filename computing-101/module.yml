@@ -1,0 +1,13 @@
+name: Computing 101 Challenges
+description: |
+  Archived Computing 101 challenges.
+
+resources:
+  - id: mem-triple-deref
+    name: Triple Dereference
+    type: challenge
+    description: Follow pointers through three levels of dereference to reach the final value.
+    transfer:
+      dojo: computing-101
+      module: advanced-memory
+      challenge: mem-triple-deref
