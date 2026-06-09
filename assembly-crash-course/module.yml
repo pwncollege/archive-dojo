@@ -1,0 +1,215 @@
+name: Assembly Crash Course
+description: |
+  Archived Assembly Crash Course challenges.
+
+resources:
+- id: level-1
+  name: level1
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-1
+- id: level-2
+  name: level2
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-2
+- id: level-2-a
+  name: level2a
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-2-a
+- id: level-3
+  name: level3
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-3
+- id: level-4
+  name: level4
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-4
+- id: level-5
+  name: level5
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-5
+- id: level-6
+  name: level6
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-6
+- id: level-6-a
+  name: level6a
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-6-a
+- id: level-7
+  name: level7
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-7
+- id: level-8
+  name: level8
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-8
+- id: level-9
+  name: level9
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-9
+- id: level-10
+  name: level10
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-10
+- id: level-10-a
+  name: level10a
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-10-a
+- id: level-10-b
+  name: level10b
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-10-b
+- id: level-11
+  name: level11
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-11
+- id: level-11-a
+  name: level11a
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-11-a
+- id: level-12
+  name: level12
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-12
+- id: level-13
+  name: level13
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-13
+- id: level-14
+  name: level14
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-14
+- id: level-15
+  name: level15
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-15
+- id: level-16
+  name: level16
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-16
+- id: level-17
+  name: level17
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-17
+- id: level-17-a
+  name: level17a
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-17-a
+- id: level-17-b
+  name: level17b
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-17-b
+- id: level-18
+  name: level18
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-18
+- id: level-19
+  name: level19
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-19
+- id: level-20
+  name: level20
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-20
+- id: level-21
+  name: level21
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-21
+- id: level-22
+  name: level22
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-22
+- id: level-23
+  name: level23
+  type: challenge
+  transfer:
+    dojo: computing-101
+    module: assembly-crash-course
+    challenge: level-23
